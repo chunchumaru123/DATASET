@@ -92,6 +92,33 @@ df1 <- kNN(df1,variable = c('uczaa'),metric=NULL,k=6)
 df1 <- subset(df1,select =1:21)
 View(df1)
 
+#############################################################
+#average of upper and lowest value
+
+
+df <- df %>%
+  mutate(before = recode(Value, `-999` = NA_real_),
+         after = recode(Value, `-999` = NA_real_)) %>%
+  fill(before, .direction = "down") %>%
+  fill(after, .direction = "up") %>%
+  mutate(Value = ifelse(Value == '-999' ,(before + after)/2,
+                        Value)) %>%
+  select(Time, Value)
+
+df <- df %>%
+  mutate(before = recode(Value," "= NA_real_),
+         after = recode(Value," "= NA_real_)) %>%
+  fill(before, .direction = "down") %>%
+  fill(after, .direction = "up") %>%
+  mutate(Value = ifelse(is.na(df$Value) == TRUE,(before + after)/2,
+                        Value)) %>%
+  select(Time, Value)
+
+
+############################################################
+
+
+
 
 #for a particular column replacing NA with median of the column  eg:chip_rate
 df1$chip_rate <- ifelse(is.na(df1$chip_rate),median(df1$chip_rate,na.rm = TRUE),df1$chip_rate)
