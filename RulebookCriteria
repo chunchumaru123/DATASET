@@ -1,0 +1,117 @@
+
+Here's the complete list of instructions and evaluation methods for all the criteria:
+
+1. Feasibility
+Instruction: Assess the likelihood of the project's technical and practical success.
+Evaluation:
+Low: Major technical or resource challenges.
+Medium: Some challenges, but they can be addressed with moderate effort.
+High: No significant challenges, easily implementable.
+2. Funding Availability
+Instruction: Determine how much funding has been allocated or is available for the project.
+Evaluation:
+Low: Insufficient or no funding allocated.
+Medium: Partial funding available, more may be required.
+High: Full funding secured and available.
+3. Scalability
+Instruction: Evaluate the potential for the project to be scaled across regions, users, or processes.
+Evaluation:
+Low: Not scalable or very limited scalability.
+Medium: Some scalability with adjustments.
+High: Easily scalable with minimal changes.
+4. End Users Persona
+Instruction: Evaluate the breadth and diversity of end-users affected by the solution.
+Evaluation:
+Low: Affects a small, specific group of users.
+Medium: Affects a moderate number of users across departments or regions.
+High: Affects a large, diverse group of users globally.
+5. Current Scenario (Without GEN AI)
+Instruction: Assess the manual effort and inefficiencies in the current scenario without the solution.
+Evaluation:
+Low: Already highly automated or little manual work involved.
+Medium: Some manual work and inefficiencies exist.
+High: Significant manual effort and inefficiencies that can be improved with automation.
+6. Cost Savings
+Instruction: Estimate how much operational cost the solution could save.
+Evaluation:
+Low: Minimal cost reduction potential.
+Medium: Moderate cost savings can be expected.
+High: Significant cost reductions expected.
+7. Revenue Generation
+Instruction: Assess the potential for the project to directly or indirectly generate revenue.
+Evaluation:
+Low: Little to no new revenue generation expected.
+Medium: Some potential for new or increased revenue streams.
+High: Substantial new revenue generation or business growth opportunities.
+8. Business Impact
+Instruction: Evaluate how much the project will positively impact the overall business metrics (e.g., KPIs, market share, etc.).
+Evaluation:
+Low: Minimal or no business impact.
+Medium: Moderate improvements to business processes and outcomes.
+High: Significant positive impact on business performance and strategy.
+9. Geographic Reach
+Instruction: Assess how broadly the solution can be applied geographically.
+Evaluation:
+Low: Limited to a single site, region, or country.
+Medium: Can be expanded to multiple regions or countries.
+High: Global reach with applicability across diverse geographies.
+10. Customer Impact
+Instruction: Determine how much the solution will improve customer experience or satisfaction.
+Evaluation:
+Low: Little to no improvement for customers.
+Medium: Moderate improvement in customer satisfaction or experience.
+High: Major improvements to customer experience, satisfaction, or loyalty.
+11. Efficiency Gains
+Instruction: Estimate the improvements in productivity or time savings from implementing the solution.
+Evaluation:
+Low: Minimal efficiency gains.
+Medium: Moderate improvements to productivity.
+High: Significant improvements in operational efficiency.
+12. Process Improvements
+Instruction: Evaluate how much the solution will improve or streamline internal processes.
+Evaluation:
+Low: Little to no process improvement.
+Medium: Moderate process improvements or automation.
+High: Major improvements, automating or simplifying complex processes.
+13. Technical Feasibility
+Instruction: Assess the ease with which the solution can be implemented from a technical perspective.
+Evaluation:
+Low: Significant technical barriers to implementation.
+Medium: Some technical challenges but solvable.
+High: No significant technical barriers; easily implemented with existing technologies.
+14. Integration Difficulty
+Instruction: Evaluate the complexity of integrating the solution with existing systems and platforms.
+Evaluation:
+Low: Simple and straightforward to integrate.
+Medium: Moderate integration efforts required.
+High: Complex integration with multiple systems or extensive customization required.
+15. Volume
+Instruction: Assess the amount of data or transactions the system will need to handle.
+Evaluation:
+Low: Low data volume or transaction rate.
+Medium: Moderate data volume or transaction rate.
+High: Large data volume, requiring significant processing capacity.
+16. User Training
+Instruction: Estimate the amount of training required for end users to effectively use the solution.
+Evaluation:
+Low: Little to no training required.
+Medium: Moderate training required for some users.
+High: Extensive training required for most users.
+17. Innovation/Capabilities
+Instruction: Evaluate how innovative the solution is in terms of technology, processes, or business model.
+Evaluation:
+Low: Minimal innovation, existing technologies/processes.
+Medium: Moderate innovation with new approaches.
+High: Highly innovative solution with cutting-edge technology or business processes.
+18. Risk
+Instruction: Assess the level of risk associated with the project (technical, financial, operational, etc.).
+Evaluation:
+Low: Low risk, unlikely to face major challenges.
+Medium: Some risk but manageable.
+High: Significant risk that could affect success or timelines.
+19. T&E (Travel and Expenses)
+Instruction: Evaluate the travel and expense requirements for the project's implementation.
+Evaluation:
+Low: Minimal or no travel and expense required.
+Medium: Moderate travel and expense budget required.
+High: Significant travel and expense required for implementation.
